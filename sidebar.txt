@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tsx:home|Door43 (tsx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tsx|d43-tsx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tsx/archive/master.zip|d43-tsx.zip]]
+
+**Recent Changes**
+{{changes>ns = tsx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tsx|Ethnologue data]]
+
